@@ -4398,7 +4398,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_Api1",
               "name": "Api1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -4406,7 +4405,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page1_Api1",
               "name": "Api2",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -4414,7 +4412,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page1_Api1",
               "name": "DeleteQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -4424,7 +4421,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page1_Api1",
               "name": "InsertQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -4435,7 +4431,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page1_Api1",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -4449,7 +4444,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page1_Api1",
               "name": "UpdateQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

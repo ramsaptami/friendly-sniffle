@@ -1831,7 +1831,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_Api1",
               "name": "fetchInvestorDetails",
               "confirmBeforeExecute": false,
               "pluginType": "SAAS",
@@ -1843,7 +1842,6 @@
           ],
           [
             {
-              "id": "Page1_Api1",
               "name": "getConversationDetails",
               "confirmBeforeExecute": false,
               "pluginType": "SAAS",
@@ -1855,7 +1853,6 @@
           ],
           [
             {
-              "id": "Page1_Api1",
               "name": "getGeoLocation",
               "confirmBeforeExecute": false,
               "pluginType": "API",

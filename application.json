@@ -21,6 +21,10 @@
       "isDefault": false
     },
     {
+      "id": "20363",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": false
     }
@@ -28,8 +32,8 @@
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
-  "color": "#ECECEC",
-  "icon": "pizza",
+  "color": "#C7F3E3",
+  "icon": "medical",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },
